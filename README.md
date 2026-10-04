@@ -6,7 +6,9 @@ A no-code AI agent, built in Zapier, that helps bank Relationship Managers catch
 **Stack:** Google Sheets, Zapier, Google AI Studio (Gemini), Gmail
 **Status:** Fully built and tested end-to-end. Not published live — see [Known Limitations](#known-limitations).
 
+
 ---
+
 
 ## The Problem
 
